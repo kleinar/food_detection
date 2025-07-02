@@ -1,4 +1,4 @@
-# YOLOv8 Food Detection Project
+# YOLO11 Food Detection Project
 
 ## 📦 Установка зависимостей
 
@@ -10,8 +10,9 @@ pip install -r requirements.txt
 
 ## 📁 Структура проекта
 
+скачать датасет и веса по ссылке по ссылке https://disk.yandex.ru/d/KX7CCmnKZnn2Dg
 ```
-скачать датасет по ссылке 
+
 
 project_root/
 ├── dataset/
